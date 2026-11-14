@@ -2,19 +2,19 @@ import Image from "next/image";
 
 const clients = [
   {
-    src: "/images/Clientes/logo-polindustria.png",
+    src: "/images/clientes/logo-polindustria.png",
     alt: "Polindustria S.A.",
     width: 200,
     height: 73,
   },
   {
-    src: "/images/Clientes/LOGO1.png",
+    src: "/images/clientes/LOGO1.png",
     alt: "Corporación Pflucker S.R.L.",
     width: 170,
     height: 60,
   },
   {
-    src: "/images/Clientes/Logo (1).png",
+    src: "/images/clientes/Logo (1).png",
     alt: "Molitalia",
     width: 417,
     height: 94,

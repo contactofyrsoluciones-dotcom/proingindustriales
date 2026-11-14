@@ -25,7 +25,7 @@ export function Navbar() {
           aria-label="PROING INDUSTRIALES, ir al inicio"
         >
           <Image
-            src="/images/Logo/proing-logo.png"
+            src="/images/logo/proing-logo.png"
             alt="PROING INDUSTRIALES E.I.R.L."
             width={2172}
             height={724}

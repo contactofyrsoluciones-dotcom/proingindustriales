@@ -10,7 +10,7 @@ export function ProjectsBanner() {
     >
       <div className="absolute inset-y-0 right-0 w-full sm:w-[62%]">
         <Image
-          src="/images/Proyectos/proyecto.jpg"
+          src="/images/proyectos/proyecto.jpg"
           alt="Estructura metálica industrial con plataformas y barandas amarillas"
           fill
           sizes="(min-width: 640px) 62vw, 100vw"

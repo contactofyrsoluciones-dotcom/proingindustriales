@@ -59,7 +59,7 @@ export function WhyChooseUs() {
             </div>
             <div className="relative aspect-[3/4] overflow-hidden rounded-xl bg-slate-100">
               <Image
-                src="/images/Proyectos/proyecto.jpg"
+                src="/images/proyectos/proyecto.jpg"
                 alt="Estructura metálica industrial con plataformas y barandas amarillas"
                 fill
                 sizes="(min-width: 1024px) 25vw, 45vw"

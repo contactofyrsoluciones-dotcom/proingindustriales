@@ -56,7 +56,7 @@ export function Hero() {
             className="relative aspect-[16/8] w-full overflow-hidden rounded-l-[3rem] bg-[#123b59] sm:aspect-[16/7]"
           >
             <Image
-              src="/images/Hero/soldador-principal.png"
+              src="/images/hero/soldador-principal.png"
               alt="Soldador realizando trabajos de unión en una tubería industrial"
               fill
               priority
